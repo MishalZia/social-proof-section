@@ -26,10 +26,8 @@ body {
 
 .social-proof-section {
   max-width: 90rem;
-  /* min-height: 41rem; */
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  /* grid-template-rows: repeat(2, 1fr); */
   column-gap: 2rem;
   row-gap: 5rem;
 }
